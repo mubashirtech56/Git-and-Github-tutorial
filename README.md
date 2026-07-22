@@ -66,3 +66,9 @@ git merge mj
 # Step 3: Push the merged changes to the remote repository
 git push -u origin main
 ```
+
+## How to Delete a branch
+
+```bash
+git branch -D branch-name
+```
