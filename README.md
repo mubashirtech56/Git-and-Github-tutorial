@@ -51,6 +51,7 @@ git branch name-of-new-branch
 git switch branch-name
 ```
 
+<<<<<<< HEAD
 # INSTRUCTION TO MERGE BRANCHES
 
 ```
@@ -72,3 +73,23 @@ git merge mj
 git push -u origin main
 
 ```
+=======
+
+## Merge a Branch into `main`
+
+Follow these steps to merge the `mj` branch into `main` and push the changes to the remote repository.
+
+```bash
+# Step 1: Update your local repository
+git checkout main
+git pull origin main
+
+# Step 2: Merge the target branch into main
+git merge mj
+
+# Step 3: Push the merged changes to the remote repository
+git push -u origin main
+```
+
+> **Note:** Replace `mj` with the name of the branch you want to merge if it is different.
+>>>>>>> mj
