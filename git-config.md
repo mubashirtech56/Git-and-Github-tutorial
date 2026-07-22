@@ -1,5 +1,5 @@
 ```bash
-git config --global user.name "mubashirtech56"
+git config --global user.name "user-name"
 ```
 
 ```bash
