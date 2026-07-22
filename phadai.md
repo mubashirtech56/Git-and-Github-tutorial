@@ -35,7 +35,3 @@ git status -s
 git log --oneline --graph
 
 ```
-
-```
-
-```
