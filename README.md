@@ -1,4 +1,4 @@
-# Stages of Git
+## Stages of Git
 
 ```bash
 U - untracked
@@ -6,40 +6,40 @@ A - added or staged
 C - Commited
 ```
 
-# Command of Initialize a git repo
+## Command of Initialize a git repo
 
 ```bash
 git init
 ```
 
-# Command for status
+## Command for status
 
 ```bash
 git status
 ```
 
-# Command to Check Current status of files
+## Command to Check Current status of files
 
 ```bash
 git status -s
 ```
 
-# Command to Check saved Check-Points
+## Command to Check saved Check-Points
 
 ```bash
 git log --oneline --graph
 ```
 
-# Command to see Branches
+## Command to see Branches
 ```bash
 git branch
 ```
-# Command to Create a New Branch
+## Command to Create a New Branch
 ```bash
 git branch name-of-new-branch
 ```
 
-# Command to Switch to branches
+## Command to Switch to branches
 
 ```bash
 git switch branch-name
