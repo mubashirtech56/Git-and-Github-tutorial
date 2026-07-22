@@ -66,3 +66,13 @@ git push -u origin main
 ```bash
 git branch -D branch-name
 ```
+
+## Stashing 
+
+```bash
+git stash 
+```
+# Now want to restore what you stashed 
+```bash
+git stash apply
+```
