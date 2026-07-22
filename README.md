@@ -35,3 +35,18 @@ git status -s
 git log --oneline --graph
 
 ```
+
+# Command to see Branches
+```
+git branch
+```
+# Command to Create a New Branch
+```
+git branch name-of-new-branch
+```
+
+# Command to Switch to branches
+
+``` 
+git switch branch-name
+```
